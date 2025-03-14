@@ -1,0 +1,11 @@
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/bin/Debug/net7.0/Store.Products.Core.deps.json
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/bin/Debug/net7.0/Store.Products.Core.dll
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/bin/Debug/net7.0/Store.Products.Core.pdb
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/Debug/net7.0/Store.Products.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/Debug/net7.0/Store.Products.Core.AssemblyInfoInputs.cache
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/Debug/net7.0/Store.Products.Core.AssemblyInfo.cs
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/Debug/net7.0/Store.Products.Core.csproj.CoreCompileInputs.cache
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/Debug/net7.0/Store.Products.Core.dll
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/Debug/net7.0/refint/Store.Products.Core.dll
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/Debug/net7.0/Store.Products.Core.pdb
+/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/Debug/net7.0/ref/Store.Products.Core.dll

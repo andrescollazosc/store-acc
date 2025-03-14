@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.App/Store.Products.App.csproj": {}
+  },
+  "projects": {
+    "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.App/Store.Products.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.App/Store.Products.App.csproj",
+        "projectName": "Store.Products.App",
+        "projectPath": "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.App/Store.Products.App.csproj",
+        "packagesPath": "/Users/andrescollazos/.nuget/packages/",
+        "outputPath": "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andrescollazos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/Store.Products.Core.csproj": {
+                "projectPath": "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/Store.Products.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/Store.Products.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/Store.Products.Core.csproj",
+        "projectName": "Store.Products.Core",
+        "projectPath": "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/Store.Products.Core.csproj",
+        "packagesPath": "/Users/andrescollazos/.nuget/packages/",
+        "outputPath": "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andrescollazos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

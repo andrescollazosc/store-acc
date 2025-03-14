@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "products", "products", "{2E8E672D-548D-4362-9826-0224A839E4A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Products.App", "Store.Products.App\Store.Products.App.csproj", "{E6F549A2-235E-40FA-9D6E-3541F8F558E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Products.Core", "Store.Products.Core\Store.Products.Core.csproj", "{AE18F3EA-7417-4C17-80AA-32D16453385A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6F549A2-235E-40FA-9D6E-3541F8F558E2} = {2E8E672D-548D-4362-9826-0224A839E4A6}
+		{AE18F3EA-7417-4C17-80AA-32D16453385A} = {2E8E672D-548D-4362-9826-0224A839E4A6}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F549A2-235E-40FA-9D6E-3541F8F558E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F549A2-235E-40FA-9D6E-3541F8F558E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F549A2-235E-40FA-9D6E-3541F8F558E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F549A2-235E-40FA-9D6E-3541F8F558E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE18F3EA-7417-4C17-80AA-32D16453385A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE18F3EA-7417-4C17-80AA-32D16453385A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE18F3EA-7417-4C17-80AA-32D16453385A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE18F3EA-7417-4C17-80AA-32D16453385A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
