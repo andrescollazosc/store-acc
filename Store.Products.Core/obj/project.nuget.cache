@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lWOFse4zOLyKAYfAStoSlhAtzCK16ZzNJQ37I3Bp4zuLgwTKFoNzmal8OauAUUtB+9YWQ/TASrZBtF+8NApoNQ==",
+  "dgSpecHash": "S6gQlCtz7FE=",
   "success": true,
   "projectFilePath": "/Users/andrescollazos/Andres Collazos/git/StoreACC/Store.Products.Core/Store.Products.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/andrescollazos/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/andrescollazos/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
